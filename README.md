@@ -1,5 +1,5 @@
 # hello-world
-GitHub test repository
+Another GitHub test repository
 ## Some tests about Markdown
 ### Lists
 - 1
